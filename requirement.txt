@@ -1,0 +1,13 @@
+ipykernel
+jupyterlab
+notebook
+
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+
+torch
+gymnasium
+stable-baselines3

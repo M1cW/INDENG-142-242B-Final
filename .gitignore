@@ -1,0 +1,11 @@
+sp500_companies.csv
+sp500_stocks.csv
+notes_May6.mb
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+rl_ppo_all50_long_only/
+simple_transformer_simple_return_t1_model/
+st_cnn_transformer_gat_simple_return_model/
+cnn_lstm_cross_transformer_simple_return_model/
+combined_prediction_backtest_from_df_model/
