@@ -1,10 +1,15 @@
 sp500_companies.csv
 sp500_stocks.csv
-notes_May6.mb
+
+conversation_notes_May8.md
+
 .venv/
 __pycache__/
 .ipynb_checkpoints/
 rl_ppo_all50_long_only/
+rl_reward_experiments/
+rl_top3_reward_experiments/
+rl_weekly_top3_softmax_experiments/
 simple_transformer_simple_return_t1_model/
 st_cnn_transformer_gat_simple_return_model/
 cnn_lstm_cross_transformer_simple_return_model/
